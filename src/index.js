@@ -1,1 +1,1 @@
-console.log("bundle working");
+import districtsMap from './US_Congressional_districts.svg';

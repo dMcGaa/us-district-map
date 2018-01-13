@@ -1,5 +1,5 @@
 {
-  "name": "d3webpack",
+  "name": "us-vote-district",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,7 @@
     "babel-preset-env": "^1.6.1",
     "babel-preset-es2015": "^6.24.1",
     "html-webpack-plugin": "^2.30.1",
+    "svg-sprite-loader": "^3.6.2",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.9.7"
   }
